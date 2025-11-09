@@ -2,7 +2,7 @@
 
 This script is an open-source alternative for [App Cleaner](https://freemacsoft.net/appcleaner/) on Mac OS
 
-The script is created following Sun Knudsen's [How to clean uninstall macOS apps using AppCleaner open source alternative](https://github.com/sunknudsen/privacy-guides/tree/master/how-to-clean-uninstall-macos-apps-using-appcleaner-open-source-alternative) tutorial. The repo is set up so that people can clone and contribute to make it better.
+The script is created following Sun Knudsen's [How to clean uninstall macOS apps using AppCleaner open source alternative](https://github.com/sunknudsen/guides/tree/main/archive/how-to-clean-uninstall-macos-apps-using-appcleaner-open-source-alternative) tutorial. The repo is set up so that people can clone and contribute to make it better.
 
 ## Installation
 
